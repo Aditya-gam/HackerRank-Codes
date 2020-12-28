@@ -93,3 +93,66 @@ int main() {
     }
     return 0;
 }
+
+
+// #include <bits/stdc++.h>
+// using namespace std;
+
+
+
+// int main(){
+//     int sizeOfBoard, noOfRots, a, b, d, i, j, noOfOut, toOut, num;
+//     cin >> sizeOfBoard >> noOfRots;
+
+//     vector<vector<int>> mainArr( sizeOfBoard, vector<int> (sizeOfBoard)), posiArray( sizeOfBoard, vector<int> (sizeOfBoard));
+
+//     for(i = 0; i < sizeOfBoard; i++){
+//         for(j = 0; j < sizeOfBoard; j ++){
+//             mainArr[i][j] = (sizeOfBoard*i) + j;
+//             posiArray[i][j] = (sizeOfBoard*i) + j;
+//         }
+//     }
+
+
+//     while (noOfRots --){
+//         cin >> a >> b >> d;
+//         a --;
+//         b --;
+//         d ++;
+
+//         vector<vector<int>> tempArr( d + 1, vector<int> (d + 1));
+
+//         for(i = 0; i < d; i++){
+//             for(j = 0; j < d; j ++){
+//                 tempArr[j][d - i - 1] = mainArr[a+i][b+j];
+//             }
+//         }
+
+//         for(i = 0; i < d; i++){
+//             for(j = 0; j < d; j ++){
+//                 mainArr[a+i][b+j] = tempArr[i][j];
+//                 num = mainArr[a+i][b+j];
+//                 posiArray[num/sizeOfBoard][num%sizeOfBoard] = ((a+i)*sizeOfBoard) + (b+j);
+//             }
+//         }
+
+//         // for(i = 0; i < sizeOfBoard; i++){
+//         //     for(j = 0; j < sizeOfBoard; j ++){
+//         //         cout << posiArray[i][j] << " ";
+//         //     }
+//         //     cout << endl;
+//         // }
+
+//     }
+
+//     cin >> noOfOut;
+
+//     while (noOfOut--){
+//         cin >> toOut;
+
+//         num = posiArray[toOut/sizeOfBoard][toOut%sizeOfBoard];
+
+//         cout << (num/sizeOfBoard)+1 << " " << (num%sizeOfBoard)+1 << endl;
+
+//     }
+// }
