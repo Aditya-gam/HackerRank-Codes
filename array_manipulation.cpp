@@ -6,11 +6,11 @@
 using namespace std;
 
 int main(){
-    int n,m,max;
-    cin>>n>>m;
+    int n, m, max;
+    cin >> n >> m;
     vector<int> arr(n+1,0);
     while(m > 0){
-        int a,b,k;
+        int a, b, k;
         cin>>a>>b>>k;
         for(int i = a;i <= b;i++){
             arr[i] += k;
