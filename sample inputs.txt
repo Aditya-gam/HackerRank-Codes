@@ -1,3 +1,5 @@
 KingRichardsKnights:                                7 4 1 2 4 2 3 3 3 4 1 3 4 0 7 0 6 9 11 24 25 48
 Balanced Brackets:                                  3 {[()]} {[(])} {{[[(())]]}}
 Equal Stacks:                                       5 3 4 3 2 1 1 1 4 3 2 1 1 4 1
+Larry's Array:                                      3 3 3 1 2 4 1 3 4 2 5 1 2 3 5 4
+Surface Area 3D:                                    3 3 1 3 4 2 2 3 1 2 4
