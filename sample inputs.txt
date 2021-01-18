@@ -11,3 +11,8 @@ Breaking Records:                                   9 10 5 20 20 4 5 2 25 1
 Jumping On Clouds:                                  8 2 0 0 1 0 0 1 1 0
 Mansa And Stones:                                   2 3 1 2 4 10 100
 SubArrayDivision:                                   5 1 2 1 3 2 3 2
+Minimum Distance:                                   6 7 1 3 4 1 7
+Cut The Sticks:                                     6 5 4 4 2 2 8
+Day Of The Programmer:                              1800
+Migrating birds:                                    11 1 2 3 4 5 4 3 2 1 3 4
+Divisible Sum Pairs:                                6 3 1 3 2 6 1 2
