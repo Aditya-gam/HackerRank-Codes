@@ -19,3 +19,4 @@ Divisible Sum Pairs:                                6 3 1 3 2 6 1 2
 Organizing Containers:                              2 3 1 3 1 2 1 2 3 3 3 3 0 2 1 1 1 1 2 0 0
 Manipulating Bits:                                  3 0 802743475 35601423
 Greedy Flourist:                                    5 3 1 3 5 7 9
+Down To Zero II:                                    10 100969 33080 584686 721675 122592 689443 155624 320908 856093 843221
