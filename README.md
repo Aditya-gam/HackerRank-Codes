@@ -21,7 +21,7 @@
 ## Sub Domains & Problems (+Solutions) in the Data Structures Domain
 
 ⚡ Quick Links: 
-[30 Days Of Code](#30 Days Of Code-) |
+[30 Days Of Code](#30DaysOfCode-) |
 [Matrix](#Matrix-) |
 [String](#String-) |
 [Searching & Sorting](#Searching-&-Sorting-) |
