@@ -42,7 +42,7 @@
 
 | Day | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
-| 0 |[Hello World!](https://www.hackerrank.com/challenges/30-hello-world/problem)| Easy | [C++]() |
+| 0 |[Hello World!](https://www.hackerrank.com/challenges/30-hello-world/problem)| Easy | [C++](https://github.com/Aditya-gam/HackerRank-Codes/blob/master/30%20Days%20Of%20Code/0_HelloWorld.cpp) |
 |[]()| Easy | []() |
 |[]()| Easy | []() |
 |[]()| Easy | []() |
