@@ -4,3 +4,8 @@
 3_Conditional Statements:                                               24
 4_Class Instance:                                                       4 -1 10 16 18
 5_Loops:                                                                2
+6_Lets Review:                                                          2 Hacker Rank
+7_Arrays:                                                               4 1 4 3 2
+8_Dictionaries And Maps:                                                3 sam 99912222 tom 11122222 harry 12299933 sam edward harry
+9_Recursion 3:                                                          7
+10_Binary Numbers:                                                      6
