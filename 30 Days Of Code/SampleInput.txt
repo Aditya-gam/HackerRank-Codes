@@ -1,0 +1,6 @@
+0_Hello World:                                                          Welcome to 30 Days of Code!           
+1_Data Types:                                                           3 2.8 is my favorite platform!                                                
+2_Operators:                                                            15.50 15 10
+3_Conditional Statements:                                               24
+4_Class Instance:                                                       4 -1 10 16 18
+5_Loops:                                                                2
