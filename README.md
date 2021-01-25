@@ -18,10 +18,10 @@
 ![Bit Manipulation](https://img.shields.io/badge/Bit%20Manipulation-0/10-1abc9c.svg)
 
 
-## Sub Domains & Problems (+Solutions) in the Data Structures Domain
+## Sub Domains & Problems (+Solutions) For HackerRank
 
 ⚡ Quick Links: 
-[30 Days Of Code](#30DaysOfCode-) |
+[30 Days Of Code](#30-Days-Of-Code-) |
 [Matrix](#Matrix-) |
 [String](#String-) |
 [Searching & Sorting](#Searching-&-Sorting-) |
@@ -38,11 +38,11 @@
 [Bit Manipulation](#Bit-Manipulation-) |
 
 
-### 30 Days Of Code ![Array](https://img.shields.io/badge/Array-0/36-1abc9c.svg)
+### 30 Days Of Code ![30 Days](https://img.shields.io/badge/30-Days-0/30-1abc9c.svg)
 
-| Problem | Difficulty Level | Solution Link |
+| Day | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
-|[]()| Easy | [C++]() |
+| 0 |[Hello World!](https://www.hackerrank.com/challenges/30-hello-world/problem)| Easy | [C++]() |
 |[]()| Easy | []() |
 |[]()| Easy | []() |
 |[]()| Easy | []() |
