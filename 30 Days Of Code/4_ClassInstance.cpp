@@ -31,7 +31,6 @@ void Person::amIOld() {
     else if(age >= 18) {
         cout << "You are old.\n";
     }
-
 }
 
 void Person::yearPasses() {
