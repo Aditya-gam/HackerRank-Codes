@@ -38,7 +38,7 @@
 [Bit Manipulation](#Bit-Manipulation-) |
 
 
-### 30 Days Of Code ![30 Days](https://img.shields.io/badge/30-Days-0/30-1abc9c.svg)
+### 30 Days Of Code ![30-Days](https://img.shields.io/badge/30-Days-0/30-1abc9c.svg)
 
 | Day | Problem | Difficulty Level | Solution Link |
 |---------|------------------|:-------------:|
