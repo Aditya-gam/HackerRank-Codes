@@ -14,7 +14,7 @@ int main()
 {
     double meal_cost;
     cin >> meal_cost;
-    cin.ignore(numeric_limits<streamsize>::max(), '\n');    //This line ignores the rest of the current line, up to '\n' or EOF - whichever comes first:
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');    //This line ignores the rest of the current line, up to '\n' or EOF - whichever comes first
 
     int tip_percent;
     cin >> tip_percent;
