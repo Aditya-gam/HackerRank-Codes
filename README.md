@@ -41,8 +41,8 @@
 ### 30 Days Of Code ![30-Days](https://img.shields.io/badge/30-Days-0/30-1abc9c.svg)
 
 | Day | Problem | Difficulty Level | Solution Link |
-|---------|------------------|:-------------:|
-| 0 |[Hello World!](https://www.hackerrank.com/challenges/30-hello-world/problem)| Easy | [C++](https://github.com/Aditya-gam/HackerRank-Codes/blob/master/30%20Days%20Of%20Code/0_HelloWorld.cpp) |
+|-----|---------|------------------|:-------------:|
+| 1 |[Hello World!](https://www.hackerrank.com/challenges/30-hello-world/problem)| Easy | [C++](https://github.com/Aditya-gam/HackerRank-Codes/blob/master/30%20Days%20Of%20Code/0_HelloWorld.cpp) |
 |[]()| Easy | []() |
 |[]()| Easy | []() |
 |[]()| Easy | []() |
