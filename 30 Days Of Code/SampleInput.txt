@@ -9,3 +9,6 @@
 8_Dictionaries And Maps:                                                3 sam 99912222 tom 11122222 harry 12299933 sam edward harry
 9_Recursion 3:                                                          7
 10_Binary Numbers:                                                      6
+11_2D Arrays:                                                           1 1 1 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 2 4 4 0 0 0 0 2 0 0 0 0 1 2 4 0 
+12_Inheritance:                                                         Heraldo Memelli 8135627 2 100 80
+13_Abstract Classes:                                                    The Alchemist Paulo Coelho 248
