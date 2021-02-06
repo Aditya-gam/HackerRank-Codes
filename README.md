@@ -43,41 +43,35 @@
 | Day | Problem | Difficulty Level | Solution Link |
 |-----|---------|------------------|:-------------:|
 | 1 |[Hello World!](https://www.hackerrank.com/challenges/30-hello-world/problem)| Easy | [C++](https://github.com/Aditya-gam/HackerRank-Codes/blob/master/30%20Days%20Of%20Code/0_HelloWorld.cpp) |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
-|[]()| Easy | []() |
+| 2 |[Data Types](https://www.hackerrank.com/challenges/30-data-types/problem)| Easy | [C++](https://github.com/Aditya-gam/HackerRank-Codes/blob/master/30%20Days%20Of%20Code/1_DataTypes.cpp) |
+| 3 |[]()| Easy | []() |
+| 4 |[]()| Easy | []() |
+| 5 |[]()| Easy | []() |
+| 6 |[]()| Easy | []() |
+| 7 |[]()| Easy | []() |
+| 8 |[]()| Easy | []() |
+| 9 |[]()| Easy | []() |
+| 10 |[]()| Easy | []() |
+| 11 |[]()| Easy | []() |
+| 12 |[]()| Easy | []() |
+| 13 |[]()| Easy | []() |
+| 14 |[]()| Easy | []() |
+| 15 |[]()| Easy | []() |
+| 16 |[]()| Easy | []() |
+| 17 |[]()| Easy | []() |
+| 18 |[]()| Easy | []() |
+| 19 |[]()| Easy | []() |
+| 20 |[]()| Easy | []() |
+| 21 |[]()| Easy | []() |
+| 22 |[]()| Easy | []() |
+| 23 |[]()| Easy | []() |
+| 24 |[]()| Easy | []() |
+| 25 |[]()| Easy | []() |
+| 26 |[]()| Easy | []() |
+| 27 |[]()| Easy | []() |
+| 28 |[]()| Easy | []() |
+| 29 |[]()| Easy | []() |
+| 30 |[]()| Easy | []() |
 
 ### Matrix ![Matrix](https://img.shields.io/badge/Matrix-0/10-1abc9c.svg)
 
