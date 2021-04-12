@@ -40,7 +40,7 @@ int main() {
                 TotalOne = 0;
                 dfs(i, j);
 
-                if(TotalOne > mx){
+                if(TotalOne > mx) {
                     mx = TotalOne;
                 }
             }
