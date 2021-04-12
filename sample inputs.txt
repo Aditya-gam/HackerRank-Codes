@@ -27,3 +27,11 @@ Alternating Characters:                             5 AAAA BBBBB ABABABAB BABABA
 The Love Letter Mystery:                            4 abc abcba abcd cba
 Common Child:                                       SHINCHAN NOHARAAA
 Seperate The Number:                                7 1234 91011 99100 101103 010203 13 1
+Preorder Traversal:                                 1 2 5 3 4 6
+Postorder Traversal:                                4 3 6 5 2 1
+Huffman Decoding:                                   1001011
+Tree Lowest Common Ancestor:                        6 4 2 3 1 7 6 1 7
+Hash Table Ransom Note:                             7 4 ive got a lovely bunch of coconuts ive got some coconuts
+Game Of Two Stacks:                                 1 5 4 10 4 2 4 6 1 2 1 8 5
+Maximum Sub array Sum:                              1 5 7 3 3 9 9 5
+Special String Again:                               7 abcbaba
