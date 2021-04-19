@@ -16,7 +16,7 @@ vector<int> stones(int n, int a, int b) {
         last.push_back(item);          
     }
     
-    sort(last.begin(), last.end()); //Sorting  
+    sort(last.begin(), last.end()); //Sorting  aa
     auto it = unique(last.begin(), last.end()); //Removing Duplicates
     last.resize(distance(last.begin(), it));
     return last;
