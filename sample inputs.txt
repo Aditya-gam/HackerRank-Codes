@@ -35,3 +35,4 @@ Hash Table Ransom Note:                             7 4 ive got a lovely bunch o
 Game Of Two Stacks:                                 1 5 4 10 4 2 4 6 1 2 1 8 5
 Maximum Sub array Sum:                              1 5 7 3 3 9 9 5
 Special String Again:                               7 abcbaba
+Largest Rectangle:                                  5 1 2 3 4 5
